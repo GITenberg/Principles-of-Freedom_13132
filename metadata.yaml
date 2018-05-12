@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '4854'
     url: http://www.gutenberg.org/2009/agents/4854
 description: Based on the history, sociology, psychology and politics of freedom.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13132#Principles-of-Freedom
 gutenberg_issued: '2004-08-07'
 gutenberg_type: Text
 identifiers:
